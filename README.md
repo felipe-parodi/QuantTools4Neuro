@@ -1,9 +1,11 @@
 
-# Mathematical Tools for Neuroscience (Neurobio 212 at Harvard)
+# Quantitative Tools for Neuroscience
 
-*Developed and taught by Ella Batty, Lucy Lai, Alex Chen, and John Assad*
+This repo has several components to it.
 
-Course contact: Eleanor_Batty@hms.harvard.edu
+One folder holds the materials from Ella Batty's "Mathematical Tools for Neuroscience" at Harvard (course contact: Eleanor_Batty@hms.harvard.edu)
+
+Another folder holds the materials from Josh Gold's "Quantitative Neuroscience" course at Penn.
 
 **Scroll down to bottom for the materials**
 
