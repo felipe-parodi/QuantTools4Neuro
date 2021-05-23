@@ -3,16 +3,16 @@
 
 Helpful for before these courses: [Basic Introduction to Maths and Python for Neuroscience by John Butler](https://github.com/john-s-butler-dit/Basic-Introduction-to-Python)
 
-### Description of UPenn's Quantitative Neuroscience
+### Description of UPenn's Quantitative Neuroscience (QN)
 The folder gold_penn holds the materials from Josh Gold's "Quantitative Neuroscience" course at Penn.
 
 
-### Description of Harvard's Mathematical Tools for Neuroscience
+### Description of Harvard's Mathematical Tools for Neuroscience (MT4N) 
 The other materials titled "Week #" are from Ella Batty's "Mathematical Tools for Neuroscience" at Harvard (course contact: Eleanor_Batty@hms.harvard.edu)
 
 **This course is essentially organized into three sections: one on linear algebra, one on probabiliy & statistics, and one on the basics of machine learning.** Materials include video lectures, comprehension questions, and tutorials.
 
-### The materials
+#### MT4N Materials
 
 | Topic | Content | Content description |
 |--|----------------------|---------------|
